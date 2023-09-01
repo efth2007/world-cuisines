@@ -24,7 +24,7 @@ const Slider = ({imageSrc, title, subtitle, description, flipped})=> {
       const isNarrowScreen = screenWidth <= 800;
 
 
-    const { ref, inView, entry } = useInView({
+    const { ref, inView } = useInView({
         threshold: 0.4,
       });
 
