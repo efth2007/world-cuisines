@@ -6,7 +6,7 @@ Checkout the deployed version [here](https://world-cuisines.onrender.com/)
 
 This project was build in a span of a couple of hours, to play around with a simple responsive design that includes a few animations.
 
-### Features:
+### Features
 
 - A simple landing pages that displays some "world cuisines" cards as the user scrolls through
 
@@ -14,7 +14,7 @@ This project was build in a span of a couple of hours, to play around with a sim
 
 - The page's (hardcoded) content was generated using ChatGPT
 
-### Technologies and libraries used:
+### Technologies and libraries used
 
 - React
 - [React Intersection Observer](https://www.npmjs.com/package/react-intersection-observer)
